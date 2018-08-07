@@ -1,0 +1,8 @@
+// Module files
+node_modules
+
+// Package manager logs
+yarn-debug.log
+
+// Compiled package files
+lib

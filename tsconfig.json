@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "outDir": "./lib/",
+        "sourceMap": true,
+        "skipLibCheck": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "declaration": true
+    },
+    "files": [
+        "./src/index.ts"
+    ],
+    "exclude": [
+        "**/*.test.ts",
+        "**/*.spec.ts",
+        "node_modules",
+        "lib"
+    ]
+}
